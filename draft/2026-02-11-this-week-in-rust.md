@@ -70,6 +70,7 @@ and just ask the editors to select the category.
 * [Trying to support FreeBSD and Nix for my Rust CLI: Lessons Learned](https://ivaniscoding.github.io/posts/rustpackaging3/)
 * [video] [Rama @ FOSDEM 2026 — Rethinking network services: Freedom and modularity with Rama](https://fosdem.org/2026/schedule/event/CKANPK-programmable_networking_with_rama/)
 * [video] [Implementing TCP Echo Server in Rust](https://www.youtube.com/watch?v=qjOBZ_Xzuio)
+* [Rust 1.93 Release Notes: SIMD & Variadic Function Changes in Depth](https://releaserun.com/rust-1-93-release-notes-simd-variadic-functions/)
 
 ### Research
 
