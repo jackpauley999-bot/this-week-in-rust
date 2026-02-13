@@ -48,6 +48,7 @@ and just ask the editors to select the category.
 ### Observations/Thoughts
 
 ### Rust Walkthroughs
+* [Rust 1.93 Release Notes: SIMD & Variadic Function Changes in Depth](https://releaserun.com/rust-1-93-release-notes-simd-variadic-functions/)
 
 ### Research
 
